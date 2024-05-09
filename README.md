@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dlcjfgmlnasa
-- 👀 I’m interested in brain-computer interface
+- 👀 I’m interested in artificial intelligence for EEG‐based brain−computer interfaces and applications
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
