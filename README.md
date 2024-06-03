@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlcjfgmlnasa
 - 👀 I’m interested in artificial intelligence for EEG‐based brain−computer interfaces and applications
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning brain engineering and artificial intelligence (🧠 + 🤖)
 - 📫 How to reach me ...
 
 <!---
