@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dlcjfgmlnasa (ChoelHui-Lee)
-- 👀 I’m interested in AI for EEG‐based BCI and applications
-- 🌱 I’m currently learning brain engineering and artificial intelligence (🧠 + 🤖)
+- 👋 Hi, I’m @dlcjfgmlnasa **(Choel-Hui Lee)**
+- 👀 I’m interested in *AI for EEG‐based BCI and Applications*
+- 🌱 I’m currently learning *brain engineering* and *artificial intelligence* (🧠 + 🤖)
 - 📫 How to reach me : dlcjfgmlnasa28@korea.ac.kr
 
 <!---
